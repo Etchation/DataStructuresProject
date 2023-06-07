@@ -1,2 +1,2 @@
-# C++ System
+# Data Structures Project
 ## Vaccine Tracking System [ CLR ]
