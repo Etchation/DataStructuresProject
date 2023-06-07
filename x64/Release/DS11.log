@@ -1,0 +1,27 @@
+﻿  MyForm.cpp
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Register.h(40,11): warning C4677: 'Register': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Admin.h(59,8): warning C4677: 'Admin': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Admin1.h(27,9): warning C4677: 'Admin1': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Admin1.h(27,9): warning C4677: 'Admin1': signature of non-private member contains assembly private type 'A'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\AdminClass.h(5,11): message : see declaration of 'A'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Admin2.h(32,9): warning C4677: 'Admin2': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Admin2.h(32,9): warning C4677: 'Admin2': signature of non-private member contains assembly private type 'A'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\AdminClass.h(5,11): message : see declaration of 'A'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Home.h(84,7): warning C4677: 'Home': signature of non-private member contains assembly private type 'User'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\User.h(5,11): message : see declaration of 'User'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Home.h(84,7): warning C4677: 'Home': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\MyForm.h(32,9): warning C4677: 'MyForm': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+  Register.cpp
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Register.h(40,11): warning C4677: 'Register': signature of non-private member contains assembly private type 'F'
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(16,11): message : see declaration of 'F'
+  Generating Code...
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(172): warning C4715: 'F::SearchUser': not all control paths return a value
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\Func.h(172): warning C4715: 'F::SearchUser': not all control paths return a value
+  Admin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DS11.vcxproj -> C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\x64\Release\DS11.exe

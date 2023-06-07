@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.vcxproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.Admin.resources
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.Admin1.resources
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.Admin2.resources
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.Home.resources
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.MyForm.resources
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.Register.resources
+C:\Users\pc\source\repos\DS11( final Copy)\DS11(2.0)\DS11(2)\DS11\DS11\x64\Release\DS11.vcxproj.GenerateResource.cache
